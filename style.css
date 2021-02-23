@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.grid {
+  width: 50vw;
+}
+
+.grid {
+  width: 50vw;
+}
+
+.div-block {
+  width: 50vw;
+  height: 50vh;
+  padding-top: 3vh;
+  padding-left: 3vw;
+  border-radius: 0px;
+  font-family: Inconsolata, monospace;
+  color: purple;
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: none;
+  text-shadow: 1px 0 2px rgba(0, 0, 0, 0.72);
+  white-space: break-spaces;
+}
+
+.body {
+  font-weight: 400;
+}
+
+.paragraph {
+  font-size: 16px;
+  white-space: normal;
+}
+
+.list {
+  font-size: 16px;
+  white-space: normal;
+}
+
+.heading {
+  margin-top: 0vh;
+}
+
+.heading-2 {
+  margin-top: 0vh;
+}
+
+.heading-3 {
+  margin-top: 0vh;
+}
